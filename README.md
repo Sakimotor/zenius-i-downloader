@@ -1,5 +1,5 @@
 # Zenius-i-Downloader
-Download your favorite simfiles from zenius-i-vanisher in an instant thanks to my shitty bash script.
+Download your favorite simfiles from zenius-i-vanisher in an instant thanks to my bash script.
 
 ## Requirements
 Any OS that supports bash.
